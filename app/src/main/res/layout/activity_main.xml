@@ -159,6 +159,20 @@
                android:onClick="button"
                app:fb_textColor="#FFFFFF"
                app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="二维码相关"
+               android:onClick="qrcode"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+
        </LinearLayout>
    </ScrollView>
 </LinearLayout>

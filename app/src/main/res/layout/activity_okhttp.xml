@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_okhttp"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <Button
-        android:id="@+id/btn_post"
+    <mehdi.sakout.fancybuttons.FancyButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="POST请求(其他类型请求自行看文档)"
         android:onClick="post"
-        android:text="POST请求(其他类型请求自行看文档)" />
-
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
     <TextView
         android:id="@+id/text_content"
         android:layout_width="wrap_content"

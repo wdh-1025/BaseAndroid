@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="扫描二维码"
+        android:onClick="capture"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="生成二維碼"
+        android:onClick="qrcode"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/image"/>
+</LinearLayout>

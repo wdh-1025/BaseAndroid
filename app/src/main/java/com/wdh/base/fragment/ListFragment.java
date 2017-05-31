@@ -55,7 +55,6 @@ public class ListFragment extends BaseListFragment<String> {
 
     @Override
     public void onBindContentView(BaseViewHolder helper, String item, int position) {
-        helper.setText(R.id.text, item);
     }
 
     /**

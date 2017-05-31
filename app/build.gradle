@@ -27,6 +27,8 @@ dependencies {
     compile project(':baselib')
     compile project(':photolib')
     compile project(':okhttplib')
+    compile project(':qrcodelib')
+
 
     compile 'com.android.support:appcompat-v7:24.2.1'
     compile 'com.android.support:design:24.2.1'

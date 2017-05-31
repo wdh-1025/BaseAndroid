@@ -1,14 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
+    android:background="#ffffff"
+    android:padding="5dp"
     android:gravity="center_horizontal">
 
-    <TextView
-        android:id="@+id/text"
-        android:layout_width="match_parent"
-        android:layout_height="50dp"
-        android:background="#b3b3b3"
-        android:gravity="center"
-        android:textColor="#fff" />
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:id="@+id/btn_dropbox"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginRight="10dp"
+        android:padding="10dp"
+        app:fb_defaultColor="#007ee5"
+        app:fb_iconPaddingLeft="0dp"
+        app:fb_iconPaddingRight="0dp"
+        app:fb_focusColor="#313131"
+        app:fb_iconResource="@mipmap/ic_launcher"
+        app:fb_radius="64dp"/>
 </LinearLayout>

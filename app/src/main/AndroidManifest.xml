@@ -30,6 +30,7 @@
         <activity android:name=".activity.OKHttpActivity"/>
         <activity android:name=".activity.WebViewJsBridge"/>
         <activity android:name=".activity.ButtonActivity"/>
+        <activity android:name=".activity.QrCodeActivity"/>
     </application>
 
 </manifest>

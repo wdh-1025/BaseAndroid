@@ -1,35 +1,63 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/activity_mddialog"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
-
-    <Button
-        android:id="@+id/btn_md_alert"
+    <mehdi.sakout.fancybuttons.FancyButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="MD风格提示框"
         android:onClick="MDAlert"
-        android:text="MD风格提示框" />
-
-    <Button
-        android:id="@+id/btn_md_select"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <mehdi.sakout.fancybuttons.FancyButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="MD风格选择框"
         android:onClick="MDSelect"
-        android:text="MD风格选择框" />
-
-    <Button
-        android:id="@+id/btn_md_edit"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <mehdi.sakout.fancybuttons.FancyButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="MD风格编辑框"
         android:onClick="MDEdit"
-        android:text="MD风格编辑框" />
-
-    <Button
-        android:id="@+id/btn_sheet_dialog"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <mehdi.sakout.fancybuttons.FancyButton
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="BottomSheetDialog"
         android:onClick="BottomSheetDialog"
-        android:text="BottomSheetDialog" />
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
+    <mehdi.sakout.fancybuttons.FancyButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        app:fb_defaultColor="@color/btn_default"
+        app:fb_focusColor="@color/btn_down"
+        app:fb_radius="5dp"
+        app:fb_text="Loading"
+        android:onClick="loading"
+        app:fb_textColor="#FFFFFF"
+        app:fb_textSize="12sp" />
 </LinearLayout>

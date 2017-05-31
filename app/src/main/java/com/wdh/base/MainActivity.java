@@ -20,6 +20,7 @@ import com.wdh.base.activity.ListActivity;
 import com.wdh.base.activity.MDDialogActivity;
 import com.wdh.base.activity.OKHttpActivity;
 import com.wdh.base.activity.PhotoViewActivity;
+import com.wdh.base.activity.QrCodeActivity;
 import com.wdh.base.activity.TabLayoutActivity;
 import com.wdh.base.activity.ViewActivity;
 import com.wdh.base.activity.WebViewJsBridge;
@@ -114,6 +115,9 @@ public class MainActivity extends BaseLayoutActivity {
         startActivity(new Intent(this,ButtonActivity.class));
     }
 
+    public void qrcode(View v){
+        startActivity(new Intent(this,QrCodeActivity.class));
+    }
 
     @Override
     protected void onDestroy() {

@@ -43,7 +43,7 @@
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="3c62a437d70b559c822a50a5409db3b89572408e">
+        sha1="e4c52a3c62a2d9616d1576ed438f88fc7928c545">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-baselib-unspecified_c05ae876abdb4bcf832b39f10bb6762fdf313b40.jar" />
     </item>
     <item
@@ -81,6 +81,15 @@
         revision="24.0.2"
         sha1="d5c731fc64c03dfe04d51134955b483551c35849">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_5cb51752a3925252a92c0d179fd18b90cc6c72e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\qrcodelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a9530e01151d1f4571494eaf7c273d8c0fd5d36">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-qrcodelib-unspecified_0844f34f4fe004bb5143ab325c58213407652f3e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -138,6 +147,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
         jumboMode="false"
         optimize="true"
@@ -147,12 +165,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\library-2.4.0_dd460f45d27a359687729c3c169358b1eda3100b.jar" />
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb.jar" />
     </item>
     <item
         is-multidex="false"
