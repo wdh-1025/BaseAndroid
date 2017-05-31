@@ -1,0 +1,74 @@
+<html>
+<head>
+    <meta content="text/html; charset=utf-8" http-equiv="content-type">
+    <title>
+        js调用java
+    </title>
+    <script src="http://libs.baidu.com/jquery/2.0.0/jquery.js"></script>
+</head>
+
+<body style="text-align:center">
+<p>
+    <xmp id="show">
+    </xmp>
+</p>
+
+<p>
+    <input style="width:300px;height:30px;background-color:#74B600;color:#fff" type="button"
+           value="調用java" onclick="toJava();"
+    />
+</p>
+
+
+
+<p>
+    <input style="width:300px;height:30px;background-color:#74B600;color:#fff" type="button"
+           value="调用目标未定义的处理程序" onclick="notFind();"
+    />
+</p>
+</body>
+<script>
+
+ jQuery(document).ready(function(){
+    setTimeout(function () {
+        jsFunction();
+    }, 1000);
+ });
+
+//调用JAVA
+ function toJava() {
+    var data = "我是js数据";
+    window.xm.callHandler(
+       'Toast'
+       , data
+       , function(responseData) {
+           document.getElementById("show").innerHTML = responseData;
+       }
+    );
+ }
+
+function jsFunction(){
+     //注册供java调用
+     window.xm.registerHandler("functionJs", function(data, responseCallback) {
+        document.getElementById("show").innerHTML = (data);
+        var responseData = "OK!";
+        responseCallback(responseData);
+     });
+}
+
+
+ //调用目标未定义的
+ function notFind(){
+     window.xm.callHandler(
+         'xxx'
+         ,{}
+         ,function(responseData){
+             document.getElementById("show").innerHTML = responseData;
+         }
+      );
+ }
+
+
+</script>
+
+</html>

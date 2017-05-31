@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="YOUR_APP_THEME">#228efd</color>
+    <color name="refresh_1">#49D8CC</color>
+    <color name="refresh_2">#F9E005</color>
+    <color name="refresh_3">#00FA01</color>
+    <color name="refresh_4">#E93200</color>
+
+    <color name="webview_progress_loading">#43b5ff</color>
+
+    <color name="black">#000000</color> <!--黑-->
+    <color name="gray">#dcdcdc</color>
+    <!--按钮-->
+    <drawable name="white">#ffffffff</drawable>
+    <drawable name="btn_down_color">#fff2f6f9</drawable>
+    <drawable name="transparent">#00000000</drawable>
+    <drawable name="btn_gray_default">#f7f7f7</drawable>
+    <drawable name="btn_gray_down">#dcdcdc</drawable>
+</resources>

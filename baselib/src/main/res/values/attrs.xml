@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--ToolBar-->
+    <declare-styleable name="ToolBar">
+        <attr name="backgroudColor" format="color" />
+        <attr name="title" format="string" />
+        <attr name="titleColor" format="color"/>
+        <attr name="leftIcon" format="reference" />
+        <attr name="leftText" format="string" />
+        <attr name="leftTextColor" format="color"/>
+        <attr name="rightIcon" format="reference" />
+        <attr name="rightText" format="string" />
+        <attr name="rightTextColor" format="color"/>
+    </declare-styleable>
+
+</resources>

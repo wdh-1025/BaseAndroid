@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent">
+
+   <ScrollView
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:scrollbars="none">
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical">
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="测试人员专享"
+               android:onClick="tobug"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="权限申请"
+               android:onClick="permission"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="列表页面"
+               android:onClick="list"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="Tab"
+               android:onClick="tablayout"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="MD 风格彈出框"
+               android:onClick="mddialog"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="查看大圖、選擇圖片"
+               android:onClick="photoview"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="链式调用"
+               android:onClick="link"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="轮播图"
+               android:onClick="banner"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="View"
+               android:onClick="view"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="网络請求"
+               android:onClick="okhttp"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="WEB"
+               android:onClick="web"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+
+           <mehdi.sakout.fancybuttons.FancyButton
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               app:fb_defaultColor="@color/btn_default"
+               app:fb_focusColor="@color/btn_down"
+               app:fb_radius="5dp"
+               app:fb_text="Button"
+               android:onClick="button"
+               app:fb_textColor="#FFFFFF"
+               app:fb_textSize="12sp" />
+       </LinearLayout>
+   </ScrollView>
+</LinearLayout>

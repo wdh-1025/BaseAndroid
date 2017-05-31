@@ -1,0 +1,21 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.baselib">
+
+    <application
+        android:allowBackup="true"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+        <activity
+            android:name="com.baselib.framework.error.activity.DefaultErrorActivity"
+            android:label="app发生错误" />
+        <activity
+            android:name=".framework.permissions.RequestActivity"
+            android:label="权限请求"
+            android:theme="@style/transcutestyle" />
+        <activity
+            android:name=".ui.module.activity.WebViewActivity"
+            android:label="加載h5"/>
+
+    </application>
+
+</manifest>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BaseAndroid</string>
+    <string name="title_activity_photo_view">PhotoViewActivity</string>
+</resources>
