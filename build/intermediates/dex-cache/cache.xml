@@ -3,21 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4\5afc3a836f7523c7dec8ea0da5632a19b354b0a0\leakcanary-watcher-1.4.jar"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.squareup.haha\haha\2.0.3\640a438d2d415c056ca6a673ac26b183b044e160\haha-2.0.3.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="5afc3a836f7523c7dec8ea0da5632a19b354b0a0">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4_8caa838c74c561e34dc4e1b236bd5bf55f4f349c.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\glide-3.6.1_4020668c253519df8db009e7f815b6fcc7d18017.jar" />
+        sha1="640a438d2d415c056ca6a673ac26b183b044e160">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\haha-2.0.3_644c9ec2276582306825f10aee984877fdc22777.jar" />
     </item>
     <item
         is-multidex="false"
@@ -30,30 +21,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bad1ad024a780bef4d84d27a33693c66b640bc2d.jar" />
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2c4798d9b568396053feebedc159b0ed5f2de2b2.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\baselib\unspecified\jars\classes.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\okhttplib\unspecified\jars\libs\sun.misc.BASE64Decoder.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="e4c52a3c62a2d9616d1576ed438f88fc7928c545">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-baselib-unspecified_c05ae876abdb4bcf832b39f10bb6762fdf313b40.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f0eb84ec22f00a557c61f4bb4ad9008ea56fb21f.jar" />
+        sha1="2ce82c44dff33530a6399041e5bea62f2a679452">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_c36406cadca584952e5981b9ebca891c3b6dd47d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -66,6 +48,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\library-2.4.0_c7a6f6fdf1ec4683a9c37b44ebd81b012245cf47.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4\5faf46d7b5f99d8bdc887ba83c7a966b426740e1\leakcanary-analyzer-1.4.jar"
         jumboMode="false"
         optimize="true"
@@ -75,39 +66,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_5cb51752a3925252a92c0d179fd18b90cc6c72e7.jar" />
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\glide-3.6.1_e8690784748bc144aa67a175016f2e01f4bf27b7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\qrcodelib\unspecified\jars\classes.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\okhttplib\unspecified\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="6a9530e01151d1f4571494eaf7c273d8c0fd5d36">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-qrcodelib-unspecified_0844f34f4fe004bb5143ab325c58213407652f3e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_793bb50430fee489fc4c435bc07b1f5ddfa1e580.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f1071265d94986b1b71648000f69b4e36ec027c2.jar" />
+        sha1="4bace5e62acc5c5b0a61f6d71ec80058b5b1bfcf">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-okhttplib-unspecified_620b353dfbffc5d4f3ab76531bfe11c13e9e2528.jar" />
     </item>
     <item
         is-multidex="false"
@@ -117,15 +90,6 @@
         revision="24.0.2"
         sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_c6ac0740d2504fc5fa519ad12fd220a9bb3a25b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_89abe61bef72cfafd37e9f97fc823bd05aec9266.jar" />
     </item>
     <item
         is-multidex="false"
@@ -156,30 +120,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_be47be7a71926436698005c3c73dd29eb62138fb.jar" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_8c2d4bf48b49ea4c9d1b10c7aa532225be72ad60.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_a8d651b4b78e57930e14fa0ec809b63305167e5e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,6 +147,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\core-3.2.1_31e81e74f410e81060063c74b3dc025b87f70eff.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
         optimize="true"
@@ -201,30 +165,39 @@
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\libs\universal-image-loader-1.9.5.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ec5b4eb1329ee4ad526a6195e794d2e30055d481.jar" />
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.5_2026445ae4095c9b9db1f4ec4b05ed728d508cb7.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5e583b1683726f97ea955f0ca8dca78ac761ec5">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.4_0759dad08978d6a362f0c82dfb6578896a233df6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9635afb3c4dab932f365b0cd71680bdb9ea87475.jar" />
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_5bdb7856b80a169bc118ef7262a4d7ad5a5e8d39.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\photolib\unspecified\jars\classes.jar"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-analyzer\1.4\5faf46d7b5f99d8bdc887ba83c7a966b426740e1\leakcanary-analyzer-1.4.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
-        sha1="d7534fff1adaac13014e9639f8ef67218bf5c94a">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-photolib-unspecified_24ab5d1fcec6097ad6a9bd8375abce90fc14f357.jar" />
+        sha1="5faf46d7b5f99d8bdc887ba83c7a966b426740e1">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\leakcanary-analyzer-1.4_637bc161f850de1428de7862d68c2c65e501e59f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -234,15 +207,6 @@
         revision="24.0.2"
         sha1="2ce82c44dff33530a6399041e5bea62f2a679452">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\sun.misc.BASE64Decoder_bbac6019cdadcfdd37d14ac3f14c46414157e830.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="d5e583b1683726f97ea955f0ca8dca78ac761ec5">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.4_2429d55694d345e8415bd388c081b2cda40b1e58.jar" />
     </item>
     <item
         is-multidex="false"
@@ -261,15 +225,6 @@
         revision="24.0.2"
         sha1="1d2264766f0334470f9917ead03eab24c55c26c9">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.github.medyo-fancybuttons-1.8.1_556a513053e469368f165165ff62bca3ba793a79.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -300,12 +255,354 @@
     </item>
     <item
         is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.github.medyo\fancybuttons\1.8.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="1d2264766f0334470f9917ead03eab24c55c26c9">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.github.medyo-fancybuttons-1.8.1_67cfe99e71cf9dc1307b0069896b6f9841815185.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_ed2e0b784da6ccc3085be92d962ffe83dadf8dc0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
         jumboMode="false"
         optimize="true"
         revision="24.0.2"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
         <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_ab33fc3ef84995105bf457d9d6f6b6aef30ad0b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4\5afc3a836f7523c7dec8ea0da5632a19b354b0a0\leakcanary-watcher-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5afc3a836f7523c7dec8ea0da5632a19b354b0a0">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4_8caa838c74c561e34dc4e1b236bd5bf55f4f349c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.1\86b122e640af09b0723e1fa44083c354ba6d9089\glide-3.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\glide-3.6.1_4020668c253519df8db009e7f815b6fcc7d18017.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bad1ad024a780bef4d84d27a33693c66b640bc2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_d4a2ab26eb5b51314a123a4a0fcf4a662b920692.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5ab2cbf24f7d708b9812c603b766c0891b5f99ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\baselib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e4c52a3c62a2d9616d1576ed438f88fc7928c545">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-baselib-unspecified_c05ae876abdb4bcf832b39f10bb6762fdf313b40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_d2d491096c3c88734453469ef7fe0757f281fa3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f0eb84ec22f00a557c61f4bb4ad9008ea56fb21f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_4b081bef27d37d98776503a6017c6fd1c21cbca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\qrcodelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a9530e01151d1f4571494eaf7c273d8c0fd5d36">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-qrcodelib-unspecified_d74dfb6f2e2bf4383ebfbd726e4a908a12bc9e2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_f8f5d157440b7ef2226429142a0233d54b963167.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_5cb51752a3925252a92c0d179fd18b90cc6c72e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\baselib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e4c52a3c62a2d9616d1576ed438f88fc7928c545">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-baselib-unspecified_5d15066f4ed944c689d15b36b1ece04981290296.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\qrcodelib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="6a9530e01151d1f4571494eaf7c273d8c0fd5d36">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-qrcodelib-unspecified_0844f34f4fe004bb5143ab325c58213407652f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_793bb50430fee489fc4c435bc07b1f5ddfa1e580.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f1071265d94986b1b71648000f69b4e36ec027c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.squareup.leakcanary\leakcanary-watcher\1.4\5afc3a836f7523c7dec8ea0da5632a19b354b0a0\leakcanary-watcher-1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5afc3a836f7523c7dec8ea0da5632a19b354b0a0">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\leakcanary-watcher-1.4_abed7f80881e7ca24ea46624221dae6750fd460f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_89abe61bef72cfafd37e9f97fc823bd05aec9266.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_be47be7a71926436698005c3c73dd29eb62138fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_dd190d259dd0a890012da3b886bc286f40905b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\core-3.2.1_3f96f72d8bc40481fc852122e0314b3485c288eb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_29f5e86179a4bc61dd8425859345c6b7980573e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\okhttp-3.4.1_a3a718343956c6e4d917a53a4fdd4a4dc134cda5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.jakewharton\disklrucache\2.0.2\93b399470e72c0bc8cb52379943b63c9aa586cd8\disklrucache-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="93b399470e72c0bc8cb52379943b63c9aa586cd8">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\disklrucache-2.0.2_312514fceaa46d14a83b6545233ca4c95349fe8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\wrapper\dists\gradle-2.14.1-all\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\okio-1.9.0_a30257e3f36f39dc3fa8a9d3436aa6fe895f1c60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_74d4d7f76613fd94895d0794ebcfde00f695fa75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_ec5b4eb1329ee4ad526a6195e794d2e30055d481.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_9635afb3c4dab932f365b0cd71680bdb9ea87475.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_753abcbc2aaebbaa4f41effd261286480bb8bb33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\photolib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7534fff1adaac13014e9639f8ef67218bf5c94a">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-photolib-unspecified_24ab5d1fcec6097ad6a9bd8375abce90fc14f357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_5e0e64d26945b069882c03083ea9428781ec1d65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5e583b1683726f97ea955f0ca8dca78ac761ec5">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.squareup.leakcanary-leakcanary-android-1.4_2429d55694d345e8415bd388c081b2cda40b1e58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_c45445448643aa4b32c9fe88f6177c3a42adf480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="E:\develop-project\android\personal\BaseAndroid\app\build\intermediates\pre-dexed\debug\okio-1.9.0_db0545b090bbd931e1cf6e43202e038727277a7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_323a9298536307194e93e199b3a2d819aaa14493.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\exploded-aar\BaseAndroid\photolib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7534fff1adaac13014e9639f8ef67218bf5c94a">
+        <dex dex="E:\develop-project\android\xm-smart\BaseAndroid\app\build\intermediates\pre-dexed\debug\BaseAndroid-photolib-unspecified_9ad7e8396dfc2b16ea193a70629831ee87db3768.jar" />
     </item>
 
 </items>
